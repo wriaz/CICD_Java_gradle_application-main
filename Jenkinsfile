@@ -35,6 +35,7 @@ pipeline{
                 docker build -t localhost:8081/springapp:${VERSION} .
                 docker login  -u admin -p ${docker_password} localhost:8083
                 docker push localhost:8083/springapp:${VERSION}
+                docker rmi localhost:8083/springapp:${VERSION}
                 '''
 
                 }

@@ -1,6 +1,7 @@
 # CICD_Java_gradle_application
 
 feature 1
+feature 4
 
 This application is java spring boot web application  
 

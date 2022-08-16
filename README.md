@@ -1,5 +1,7 @@
 # CICD_Java_gradle_application
 
+feature 2
+
 This application is java spring boot web application  
 
 build tool is ** gradle **

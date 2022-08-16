@@ -3,6 +3,7 @@
 This application is java spring boot web application  
 
 feature 3
+feature 6
 
 build tool is ** gradle **
 
